@@ -1,6 +1,6 @@
 package guru.springframework.model;
 
-public class GenerateLombokClass {
+public class LombokAppRunner {
 
     public static void main(String[] args) {
 
